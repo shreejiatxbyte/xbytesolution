@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-Small_Medium_Business">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="Small_Medium_Business" data-name="Small &amp; Medium Business" clip-path="url(#clip-Small_Medium_Business)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="61.6" height="61.6" transform="translate(0 0.005)" fill="none"/>
+    <g id="Group_204" data-name="Group 204" transform="translate(-2.04 -2)">
+      <g id="Group_196" data-name="Group 196">
+        <path id="Path_538" data-name="Path 538" d="M49,62H5V34H7V60H47V34h2Z" fill="#bc2834"/>
+      </g>
+      <g id="Group_197" data-name="Group 197">
+        <path id="Path_539" data-name="Path 539" d="M25,62H11V47a7,7,0,0,1,14,0ZM13,60H23V47a5,5,0,0,0-10,0Z" fill="#bc2834"/>
+      </g>
+      <g id="Group_198" data-name="Group 198">
+        <path id="Path_540" data-name="Path 540" d="M43,52H27V40H43ZM29,50H41V42H29Z" fill="#bc2834"/>
+      </g>
+      <g id="Group_199" data-name="Group 199">
+        <path id="Path_541" data-name="Path 541" d="M57,28H33a4.951,4.951,0,0,1-5-5V11a4.951,4.951,0,0,1,5-5H57a4.951,4.951,0,0,1,5,5V23A4.951,4.951,0,0,1,57,28ZM33,8a2.946,2.946,0,0,0-3,3V23a2.946,2.946,0,0,0,3,3H57a2.946,2.946,0,0,0,3-3V11a2.946,2.946,0,0,0-3-3Z" fill="#bc2834"/>
+      </g>
+      <g id="Group_200" data-name="Group 200">
+        <path id="Path_542" data-name="Path 542" d="M51,7H49a2.946,2.946,0,0,0-3-3H44a2.946,2.946,0,0,0-3,3H39a4.951,4.951,0,0,1,5-5h2A4.951,4.951,0,0,1,51,7Z" fill="#bc2834"/>
+      </g>
+      <path id="Path_543" data-name="Path 543" d="M49.9,30A5.03,5.03,0,0,1,45,34c-2.4,0-5-1.1-5-4H38c0,2.9-2.6,4-5,4s-5-1.1-5-4H26c0,2.9-2.6,4-5,4s-5-1.1-5-4H14c0,2.9-2.6,4-5,4a4.941,4.941,0,0,1-4.9-4.1,2.294,2.294,0,0,1,.1-1.4L8.1,16.1A2.914,2.914,0,0,1,11,14H26V12H10.9a5.042,5.042,0,0,0-4.8,3.5L2.3,28a4.158,4.158,0,0,0-.2,2.2A6.975,6.975,0,0,0,9,36a7.034,7.034,0,0,0,6-2.7A7.034,7.034,0,0,0,21,36a7.034,7.034,0,0,0,6-2.7A7.034,7.034,0,0,0,33,36a7.034,7.034,0,0,0,6-2.7A7.034,7.034,0,0,0,45,36a6.975,6.975,0,0,0,6.9-5.8V30Z" fill="#bc2834"/>
+      <g id="Group_201" data-name="Group 201">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="14" height="2" transform="translate(47 15)" fill="#bc2834"/>
+      </g>
+      <g id="Group_202" data-name="Group 202">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="14" height="2" transform="translate(29 15)" fill="#bc2834"/>
+      </g>
+      <g id="Group_203" data-name="Group 203">
+        <path id="Path_544" data-name="Path 544" d="M48,20H42V12h6Zm-4-2h2V14H44Z" fill="#bc2834"/>
+      </g>
+    </g>
+  </g>
+</svg>

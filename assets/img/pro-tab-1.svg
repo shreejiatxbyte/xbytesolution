@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="98px" height="98px" viewBox="0 0 98 98" enable-background="new 0 0 98 98" xml:space="preserve">
+<title>ic_design</title>
+<desc>Created with Sketch.</desc>
+<g id="ic_design">
+	<path id="Rectangle" fill="#D4DCE8" d="M24,18h59c3.313,0,6,2.687,6,6v59c0,3.313-2.687,6-6,6H24c-3.313,0-6-2.687-6-6V24
+		C18,20.687,20.687,18,24,18z"/>
+	<g id="Group-25" transform="translate(15.000000, 15.000000)">
+		<path id="Rectangle-51" fill="#FFFFFF" stroke="#2D4152" stroke-width="2.875" d="M4.313,1.438h60.375
+			c1.588,0,2.875,1.287,2.875,2.875v60.375c0,1.588-1.287,2.875-2.875,2.875H4.313c-1.588,0-2.875-1.287-2.875-2.875V4.313
+			C1.438,2.725,2.725,1.438,4.313,1.438z"/>
+		
+			<circle id="Oval-13" fill="#F5F8FC" stroke="#E61F2D" stroke-width="5.75" stroke-opacity="0.5" cx="20.844" cy="45.281" r="7.906"/>
+		<polygon id="Rectangle-52" fill="#F5F8FC" stroke="#2D4152" stroke-width="5.75" points="47.438,30.188 56.063,47.438 
+			38.813,47.438 		"/>
+		
+			<rect id="Rectangle-52-Copy" x="21.563" y="15.813" fill="#F5F8FC" stroke="#E61F2D" stroke-width="5.75" width="23" height="23"/>
+	</g>
+</g>
+</svg>

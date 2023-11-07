@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="98px" height="98px" viewBox="0 0 98 98" enable-background="new 0 0 98 98" xml:space="preserve">
+<title>ic_web_dev</title>
+<desc>Created with Sketch.</desc>
+<g id="ic_web_dev">
+	<g id="Group-26" transform="translate(13.000000, 13.000000)">
+		<path id="Rectangle" fill="#D4DCE8" d="M11,5h59c3.313,0,6,2.687,6,6v59c0,3.313-2.687,6-6,6H11c-3.313,0-6-2.687-6-6V11
+			C5,7.687,7.687,5,11,5z"/>
+		<g id="Group-25" transform="translate(0.666667, 0.666667)">
+			<path id="Rectangle-51" fill="#FFFFFF" stroke="#2D4152" stroke-width="3" d="M4.44,1.5h61.787c1.624,0,2.94,1.316,2.94,2.94
+				v61.787c0,1.624-1.316,2.94-2.94,2.94H4.44c-1.624,0-2.94-1.316-2.94-2.94V4.44C1.5,2.816,2.816,1.5,4.44,1.5z"/>
+			<path id="Line" fill="none" stroke="#2D4152" stroke-width="5.88" stroke-linecap="square" d="M10.306,39.749h48.583"/>
+			<path id="Line-Copy" fill="none" stroke="#E61F2D" stroke-width="5.88" stroke-linecap="square" d="M10.306,54.472h33.875"/>
+			<circle id="Oval-3" fill="#333333" cx="10.306" cy="11.778" r="2.944"/>
+			<circle id="Oval-3-Copy" fill="#333333" cx="19.139" cy="11.778" r="2.944"/>
+			<circle id="Oval-3-Copy-2" fill="#333333" cx="27.972" cy="11.778" r="2.944"/>
+			<polyline id="Path-11" fill="none" stroke="#2D4152" stroke-width="2.94" points="13.25,20.611 7.361,26.5 13.25,32.389 			"/>
+			<polyline id="Path-11-Copy" fill="none" stroke="#2D4152" stroke-width="2.94" points="55.945,50.056 61.833,55.945 
+				55.945,61.833 			"/>
+		</g>
+	</g>
+</g>
+</svg>
